@@ -1,0 +1,5 @@
+*.pyc
+mnn_model/
+data/
+log/
+.idea/

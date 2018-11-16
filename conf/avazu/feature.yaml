@@ -1,0 +1,93 @@
+# Feature Configuration for Kaggle Avazu Dataset.
+
+id:
+  type: category
+  size:
+
+hour:
+  type: category
+  size:
+
+C1:
+  type: category
+  size:
+
+banner_pos:
+  type: category
+  size:
+
+site_id:
+  type: category
+  size:
+
+site_domain:
+  type: category
+  size:
+
+site_category:
+  type: category
+  size:
+
+app_id:
+  type: category
+  size:
+
+app_domain:
+  type: category
+  size:
+
+app_category:
+  type: category
+  size:
+
+device_id:
+  type: category
+  size:
+
+device_ip:
+  type: category
+  size:
+
+device_model:
+  type: category
+  size:
+
+device_type:
+  type: category
+  size:
+
+device_conn_type:
+  type: category
+  size:
+
+C14:
+  type: category
+  size:
+
+C15:
+  type: category
+  size:
+
+C16:
+  type: category
+  size:
+
+C17:
+  type: category
+  size:
+
+C18:
+  type: category
+  size:
+
+C19:
+  type: category
+  size:
+
+C20:
+  type: category
+  size:
+
+C21:
+  type: category
+  size:

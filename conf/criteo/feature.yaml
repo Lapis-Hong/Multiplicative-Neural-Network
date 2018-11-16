@@ -1,0 +1,170 @@
+# Feature basic Configuration for Kaggle Criteo Dataset.
+
+I1:
+  type: continuous
+  mean: 1.91
+  std: 7.08
+
+I2:
+  type: continuous
+  mean: 106
+  std: 390
+
+I3:
+  type: continuous
+  mean: 21
+  std: 360
+
+I4:
+  type: continuous
+  mean: 5.7
+  std: 8.3
+
+I5:
+  type: continuous
+  mean: 18074
+  std: 68513
+
+I6:
+  type: continuous
+  mean: 90
+  std: 300
+
+I7:
+  type: continuous
+  mean: 15.6
+  std: 63.4
+
+I8:
+  type: continuous
+  mean: 12.5
+  std: 16.3
+
+I9:
+  type: continuous
+  mean: 101.4
+  std: 216
+
+I10:
+  type: continuous
+  mean: 0.34
+  std: 0.59
+
+I11:
+  type: continuous
+  mean: 2.6
+  std: 5.1
+
+I12:
+  type: continuous
+  mean: 0.23
+  std: 2.7
+
+I13:
+  type: continuous
+  mean: 6.4
+  std: 14.7
+
+C1:
+  type: category
+  size: 1451
+
+C2:
+  type: category
+  size: 557
+
+C3:
+  type: category
+  size: 1264552
+
+C4:
+  type: category
+  size: 394638
+
+C5:
+  type: category
+  size: 304
+
+C6:
+  type: category
+  size: 18
+
+C7:
+  type: category
+  size: 12018
+
+C8:
+  type: category
+  size: 628
+
+C9:
+  type: category
+  size: 3
+
+C10:
+  type: category
+  size: 51014
+
+C11:
+  type: category
+  size: 5263
+
+C12:
+  type: category
+  size: 1099912
+
+C13:
+  type: category
+  size: 3175
+
+C14:
+  type: category
+  size: 26
+
+C15:
+  type: category
+  size: 11881
+
+C16:
+  type: category
+  size: 794306
+
+C17:
+  type: category
+  size: 10
+
+C18:
+  type: category
+  size: 4745
+
+C19:
+  type: category
+  size: 2023
+
+C20:
+  type: category
+  size: 4
+
+C21:
+  type: category
+  size: 970012
+
+C22:
+  type: category
+  size: 17
+
+C23:
+  type: category
+  size: 15
+
+C24:
+  type: category
+  size: 92792
+
+C25:
+  type: category
+  size: 91
+
+C26:
+  type: category
+  size: 61174
